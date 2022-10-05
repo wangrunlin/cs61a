@@ -1,0 +1,8 @@
+## MacOS dot file
+.DS_Store
+
+## Python cache
+**/__pycache__/
+
+## ok file
+.ok_*
